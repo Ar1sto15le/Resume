@@ -1,0 +1,6 @@
+$ tex testfont  # or pdftex testfont
+...
+Name of the font to test = alegreya
+...
+*\table
+*\bye
